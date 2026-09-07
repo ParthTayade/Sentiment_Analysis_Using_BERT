@@ -24,12 +24,12 @@ Load the Amazon Reviews dataset. Preprocess and clean review text. Tokenize text
 
 ### Project Details
 
-Model: Pre-trained BERT (Hugging Face Transformers)
+**Model:** Pre-trained BERT (Hugging Face Transformers)
 
-Dataset: Amazon Reviews Dataset (Kaggle)
+**Dataset:** Amazon Reviews Dataset (Kaggle)
 
-Language: Python
+**Language:** Python
 
-Libraries: Transformers, PyTorch, Pandas, NumPy, Scikit-learn
+**Libraries:** Transformers, PyTorch, Pandas, NumPy, Scikit-learn
 
-Task: Sentiment Analysis (Amazon Review Classification)
+**Task:** Sentiment Analysis (Amazon Review Classification)
